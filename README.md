@@ -28,5 +28,12 @@ The system was designed to streamline and organize the complex workflows of an A
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dhwanioshi/Airforce-ERP-System-Database.git
+
 
